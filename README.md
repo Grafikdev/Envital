@@ -60,3 +60,8 @@ what about Windows 8
 ====================
 
 There are a few ways to run gadgets on Windows 8 like [8gadgetpack](http://8gadgetpack.net/dl15/8GadgetPackSetup.msi)
+
+Note
+====================
+
+This is a modified version of [envital](https://github.com/g-dexterous/envital)
